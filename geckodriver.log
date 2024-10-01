@@ -1,0 +1,327 @@
+1727509035385	geckodriver	INFO	Listening on 127.0.0.1:59493
+1727509038699	mozrunner::runner	INFO	Running command: "C:\\Users\\mthan\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "--headless" "--no-sa ... 4" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileo2myyd"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1727509039246	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1727509039395	Marionette	INFO	Listening on port 59501
+WebDriver BiDi listening on ws://127.0.0.1:59494
+1727509039463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: ({})
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+ference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1727509082332	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1727509082457	Marionette	INFO	Listening on port 59561
+WebDriver BiDi listening on ws://127.0.0.1:59556
+1727509082667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: ({})
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+Exiting due to channel error.
+Exiting due to channel error.
+settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1727509131221	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1727509131404	Marionette	INFO	Listening on port 59625
+WebDriver BiDi listening on ws://127.0.0.1:59618
+1727509131467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1727509610480	Marionette	INFO	Stopped listening on port 59625
+Dynamically enable window occlusion 1
+console.error: (new Error("Data is not ready.", "resource://gre/modules/JSONFile.sys.mjs", 178))
+ "--headless" "--no-sa ... 9" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofile4QTvGE"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1727509295916	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1727509296043	Marionette	INFO	Listening on port 59744
+WebDriver BiDi listening on ws://127.0.0.1:59739
+1727509296205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: ({})
+1727509298876	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1727509298884	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://stat2.moneycontrol.com/mcjs/wap/highcharts.js?v=1, line 17: TypeError: oa is not a function
+JavaScript error: https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php, line 12100: ReferenceError: interstitial_ad_unit_checks is not defined
+1727509301841	Marionette	INFO	Stopped listening on port 59744
+Dynamically enable window occlusion 1
+1727509337282	geckodriver	INFO	Listening on 127.0.0.1:59908
+1727509340404	mozrunner::runner	INFO	Running command: "C:\\Users\\mthan\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "--no-sandbox" "--dis ... 9" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileYrSUjR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1727509340775	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1727509340978	Marionette	INFO	Listening on port 59916
+WebDriver BiDi listening on ws://127.0.0.1:59909
+1727509341068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1727509345311	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1727509345318	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://stat2.moneycontrol.com/mcjs/wap/highcharts.js?v=1, line 17: TypeError: oa is not a function
+JavaScript error: https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php, line 12100: ReferenceError: interstitial_ad_unit_checks is not defined
+1727509351808	Marionette	INFO	Stopped listening on port 59916
+Dynamically enable window occlusion 1
+1727509401298	geckodriver	INFO	Listening on 127.0.0.1:54966
+1727509404421	mozrunner::runner	INFO	Running command: "C:\\Users\\mthan\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "--no-sandbox" "--dis ... 7" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilez4gCwc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1727509404768	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1727509404946	Marionette	INFO	Listening on port 54972
+WebDriver BiDi listening on ws://127.0.0.1:54967
+1727509405024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1727509410289	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1727509410298	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://stat2.moneycontrol.com/mcjs/wap/highcharts.js?v=1, line 17: TypeError: oa is not a function
+JavaScript error: https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php, line 12100: ReferenceError: interstitial_ad_unit_checks is not defined
+1727509413456	Marionette	INFO	Stopped listening on port 54972
+Dynamically enable window occlusion 1
+1727509560062	geckodriver	INFO	Listening on 127.0.0.1:60719
+1727509563217	mozrunner::runner	INFO	Running command: "C:\\Users\\mthan\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "--headless" "--no-sa ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofile1JXKM6"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1727509563555	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1727509563680	Marionette	INFO	Listening on port 60729
+WebDriver BiDi listening on ws://127.0.0.1:60720
+1727509563908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: ({})
+1727509566423	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1727509566429	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://stat2.moneycontrol.com/mcjs/wap/highcharts.js?v=1, line 17: TypeError: oa is not a function
+JavaScript error: https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php, line 12100: ReferenceError: interstitial_ad_unit_checks is not defined
+1727509569463	Marionette	INFO	Stopped listening on port 60729
+Dynamically enable window occlusion 1
+1727509607241	geckodriver	INFO	Listening on 127.0.0.1:60902
+1727509610482	mozrunner::runner	INFO	Running command: "C:\\Users\\mthan\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "--headless" "--no-sa ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileE4uiDJ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1727509611058	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1727509611207	Marionette	INFO	Listening on port 60912
+WebDriver BiDi listening on ws://127.0.0.1:60903
+1727509611738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: ({})
+1727509614046	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1727509614051	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://stat2.moneycontrol.com/mcjs/wap/highcharts.js?v=1, line 17: TypeError: oa is not a function
+JavaScript error: https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php, line 12100: ReferenceError: interstitial_ad_unit_checks is not defined
+1727509617096	Marionette	INFO	Stopped listening on port 60912
+Dynamically enable window occlusion 1
+1727509732656	geckodriver	INFO	Listening on 127.0.0.1:61161
+1727509735777	mozrunner::runner	INFO	Running command: "C:\\Users\\mthan\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "--headless" "--no-sa ... 2" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileFiqCNE"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1727509736120	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1727509736249	Marionette	INFO	Listening on port 61170
+WebDriver BiDi listening on ws://127.0.0.1:61162
+1727509736456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: ({})
+JavaScript error: https://stat2.moneycontrol.com/mcjs/wap/highcharts.js?v=1, line 17: TypeError: oa is not a function
+1727509741231	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1727509741237	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php, line 12100: ReferenceError: interstitial_ad_unit_checks is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Devx3hDm0MKrWP67astUL3hHWU-k2AcPhnVtcQeFvnY.js line 2 > eval line 999 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofile5eHPvr"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1727509761787	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1727509761934	Marionette	INFO	Listening on port 61390
+WebDriver BiDi listening on ws://127.0.0.1:61381
+1727509761999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: ({})
+1727509765184	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1727509765189	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://stat2.moneycontrol.com/mcjs/wap/highcharts.js?v=1, line 17: TypeError: oa is not a function
+JavaScript error: https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php, line 12100: ReferenceError: interstitial_ad_unit_checks is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Devx3hDm0MKrWP67astUL3hHWU-k2AcPhnVtcQeFvnY.js line 2 > eval line 2928 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilewLoEw9"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1727509975026	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1727509975214	Marionette	INFO	Listening on port 61761
+WebDriver BiDi listening on ws://127.0.0.1:61752
+1727509975634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: ({})
+JavaScript error: https://stat2.moneycontrol.com/mcjs/wap/highcharts.js?v=1, line 17: TypeError: oa is not a function
+JavaScript error: https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php, line 12100: ReferenceError: interstitial_ad_unit_checks is not defined
+1727509979668	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1727509979685	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1727509983176	Marionette	INFO	Stopped listening on port 61761
+JavaScript warning: https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202409240101/pubads_impl.js, line 33: Script terminated by timeout at:
+oU@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202409240101/pubads_impl.js:33:419741
+IU.prototype.D@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202409240101/pubads_impl.js:33:431478
+BT.prototype.render@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202409240101/pubads_impl.js:33:394413
+Fw.prototype.g@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202409240101/pubads_impl.js:33:433320
+yM.prototype.start/<@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202409240101/pubads_impl.js:33:253614
+by@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202409240101/pubads_impl.js:33:128394
+dy/this.next@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202409240101/pubads_impl.js:33:128693
+b@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202409240101/pubads_impl.js:33:128944
+
+Dynamically enable window occlusion 1
+1727510082644	geckodriver	INFO	Listening on 127.0.0.1:62011
+1727510085821	mozrunner::runner	INFO	Running command: "C:\\Users\\mthan\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "--headless" "--no-sa ... 2" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileSlLKiy"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1727510086465	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1727510086718	Marionette	INFO	Listening on port 62020
+WebDriver BiDi listening on ws://127.0.0.1:62012
+1727510087027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: ({})
+1727510090457	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1727510090462	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://stat2.moneycontrol.com/mcjs/wap/highcharts.js?v=1, line 17: TypeError: oa is not a function
+JavaScript error: https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php, line 12100: ReferenceError: interstitial_ad_unit_checks is not defined
+1727510094363	Marionette	INFO	Stopped listening on port 62020
+Dynamically enable window occlusion 1
+1727510165698	geckodriver	INFO	Listening on 127.0.0.1:62245
+1727510168900	mozrunner::runner	INFO	Running command: "C:\\Users\\mthan\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "--headless" "--no-sa ... 6" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileuoAAZx"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1727510169386	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1727510169548	Marionette	INFO	Listening on port 62254
+WebDriver BiDi listening on ws://127.0.0.1:62246
+1727510169620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: ({})
+1727510173825	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1727510173830	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://stat2.moneycontrol.com/mcjs/wap/highcharts.js?v=1, line 17: TypeError: oa is not a function
+JavaScript error: https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php, line 12100: ReferenceError: interstitial_ad_unit_checks is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Devx3hDm0MKrWP67astUL3hHWU-k2AcPhnVtcQeFvnY.js line 2 > eval line 2897 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+Exiting due to channel error.
+ettings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1727510304740	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1727510304962	Marionette	INFO	Listening on port 62558
+WebDriver BiDi listening on ws://127.0.0.1:62551
+1727510305264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: ({})
+1727510311553	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1727510311558	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://stat2.moneycontrol.com/mcjs/wap/highcharts.js?v=1, line 17: TypeError: oa is not a function
+JavaScript error: https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php, line 12100: ReferenceError: interstitial_ad_unit_checks is not defined
+1727510316238	Marionette	INFO	Stopped listening on port 62558
+Dynamically enable window occlusion 1
+1727510521416	geckodriver	INFO	Listening on 127.0.0.1:62909
+1727510524587	mozrunner::runner	INFO	Running command: "C:\\Users\\mthan\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "--headless" "--no-sa ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofileCVjwIV"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1727510525198	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1727510525431	Marionette	INFO	Listening on port 62918
+WebDriver BiDi listening on ws://127.0.0.1:62910
+1727510525775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: ({})
+1727510529358	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1727510529362	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://stat2.moneycontrol.com/mcjs/wap/highcharts.js?v=1, line 17: TypeError: oa is not a function
+JavaScript error: https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php, line 12100: ReferenceError: interstitial_ad_unit_checks is not defined
+1727510533598	Marionette	INFO	Stopped listening on port 62918
+JavaScript warning: https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202409240101/pubads_impl.js, line 33: Script terminated by timeout at:
+O/<@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202409240101/pubads_impl.js:33:59357
+processSlot/timer<@https://rtbcdn.andbeyond.media/prod-global-32339.js:1:44695
+
+Dynamically enable window occlusion 1
+1727510644935	geckodriver	INFO	Listening on 127.0.0.1:63171
+1727510648112	mozrunner::runner	INFO	Running command: "C:\\Users\\mthan\\AppData\\Local\\Microsoft\\WindowsApps\\firefox.exe" "--marionette" "--headless" "--no-sa ... 2" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\mthan\\AppData\\Local\\Temp\\rust_mozprofilewnHmAd"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1727510648777	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+1727510649029	Marionette	INFO	Listening on port 63180
+WebDriver BiDi listening on ws://127.0.0.1:63172
+1727510649343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: ({})
+1727510653603	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1727510653608	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://stat2.moneycontrol.com/mcjs/wap/highcharts.js?v=1, line 17: TypeError: oa is not a function
+JavaScript error: https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php, line 12100: ReferenceError: interstitial_ad_unit_checks is not defined
+1727510657024	Marionette	INFO	Stopped listening on port 63180
+JavaScript warning: https://cdn.onthe.io/io.js/8qckTULJP2pt, line 1: Script terminated by timeout at:
+n.setIntervalSafe/e.helpers<@https://cdn.onthe.io/io.js/8qckTULJP2pt:1:5343
+
+Dynamically enable window occlusion 1
